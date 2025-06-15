@@ -1,0 +1,15 @@
+artifact_uri: file:///lab3/logs/mlruns/542070204855008201/4d60fc2311f941b5a67c4dceb7ae164b/artifacts
+end_time: 1750019578548
+entry_point_name: ''
+experiment_id: '542070204855008201'
+lifecycle_stage: active
+run_id: 4d60fc2311f941b5a67c4dceb7ae164b
+run_name: DataIngestion
+run_uuid: 4d60fc2311f941b5a67c4dceb7ae164b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750019577110
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,6 @@
+artifact_location: file:///lab3/logs/mlruns/542070204855008201
+creation_time: 1750019373004
+experiment_id: '542070204855008201'
+last_update_time: 1750019373004
+lifecycle_stage: active
+name: /Retail/GBT_OrderValuePrediction
